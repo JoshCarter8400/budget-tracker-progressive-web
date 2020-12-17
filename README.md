@@ -8,5 +8,5 @@ This aplication is a budget tracker that allows users to add expenses and deposi
 4. MongoDB Atlas to allow for deployment to Heroku and connection to database from the cloud
 
 ## How to use
-[Click here to launch the eapplication](https://blooming-lake-53224.herokuapp.com/) and start saving some money!!
+[Click here to launch the application](https://blooming-lake-53224.herokuapp.com/) and start saving some money!!
 <img src="screenshot-budget.png"/>
